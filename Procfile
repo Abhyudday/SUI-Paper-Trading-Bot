@@ -1,0 +1,1 @@
+worker: python sui_trading_bot.py 
